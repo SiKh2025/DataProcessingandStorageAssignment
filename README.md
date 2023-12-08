@@ -1,5 +1,5 @@
 # DataProcessingandStorageAssignment
-
+(NOTE: View in Code or Raw formating for best represenation) 
 **Overview**:
 
 This C++ program, titled DataProcessingandStorageAssignment, implements an in-memory key-value database that supports basic transaction functionality. It allows setting and getting integer values by string keys within transactions, with the capability to commit or rollback changes made during a transaction.
@@ -19,7 +19,7 @@ Standard C++ libraries
 4)If using a text editor, save the file, open your terminal or command prompt, navigate to the file's directory, and compile the code: g++ -std=c++17 DataProcessingandStorageAssignment.cpp -o DataProcessingandStorageAssignment
 Then, run the compiled program: ./DataProcessingandStorageAssignment
 
-If Directly in an IDE:
+~If Directly in an IDE~:
 
 1)Copy the source code from the repository.
 2)Paste it into a new project file in your IDE (named DataProcessingandStorageAssignment.cpp).
