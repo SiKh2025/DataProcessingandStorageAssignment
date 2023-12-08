@@ -25,6 +25,8 @@ Then, run the compiled program: ./DataProcessingandStorageAssignment
 2)Paste it into a new project file in your IDE (named DataProcessingandStorageAssignment.cpp).
 3)Use the IDE's build and run commands to compile and execute the program.
 
+*Note: Can also acess raw code file and copy code from there, pasting into an IDE, if you do not want to download any files*
+
 **Using the Program**:
 
 After starting the program, input commands directly into the console. Supported commands are:
