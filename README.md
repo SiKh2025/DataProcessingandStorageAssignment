@@ -11,7 +11,7 @@ Standard C++ libraries
 
 **Setup and Running the Program**:
 
-~If Cloning from GitHub~
+If Cloning from GitHub:
 
 1)Clone the repository or download the source code.
 2)Open the downloaded DataProcessingandStorageAssignment.cpp file in your preferred C++ IDE or a text editor.
@@ -19,7 +19,7 @@ Standard C++ libraries
 4)If using a text editor, save the file, open your terminal or command prompt, navigate to the file's directory, and compile the code: g++ -std=c++17 DataProcessingandStorageAssignment.cpp -o DataProcessingandStorageAssignment
 Then, run the compiled program: ./DataProcessingandStorageAssignment
 
-~If Directly in an IDE~:
+If Directly in an IDE:
 
 1)Copy the source code from the repository.
 2)Paste it into a new project file in your IDE (named DataProcessingandStorageAssignment.cpp).
