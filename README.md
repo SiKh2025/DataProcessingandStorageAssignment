@@ -11,8 +11,7 @@ Standard C++ libraries
 
 **Setup and Running the Program**:
 
-**If Cloning from Github:
-**
+**If Cloning from Github:**
 
 1)Clone the repository or download the source code.
 2)Open the downloaded DataProcessingandStorageAssignment.cpp file in your preferred C++ IDE or a text editor.
