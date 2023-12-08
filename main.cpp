@@ -19,7 +19,7 @@ private:
 public:
     //Retrieves value of given key.
     std::optional<int> get(const std::string& key) {
-        //Only return val of transaction_db if transaction is committed
+        //Only return val of transaction_db if the transaction is committed
         if (!in_transaction && main_db.find(key) != main_db.end()) {
             return main_db[key];
         }
