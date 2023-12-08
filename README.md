@@ -92,6 +92,7 @@ _null_
 
 **Future Assignment Modifications**:
 
+
 I feel there are a few things that can be done for this to become an official assignment. Firstly, the instructions should explicitly detail the expected input and output formats, ensuring clarity and reducing potential misunderstandings. I personally went off of the examples included, but it would be useful to specify or explain how it is open to interpretation as long as you follow the instructions. Also, introducing additional database functionalities, such as delete or update operations, could improve the learning experience by mirroring real-world database scenarios more closely. Additionally, if you want to focus more strictly on the coding aspect of this project, developing a grading rubric and focusing on aspects like code efficiency, style, and the handling of cases would provide a more thorough assessment of student work. Finally, incorporating automated testing could improve the grading process's effectiveness and efficiency; I've had this within assignments for other computer science-related classes. It allows for a more consistent and objective evaluation of each function's correctness.
 
 
